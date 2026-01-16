@@ -1,0 +1,10 @@
+DUMSA Feature
+
+This file was created in response to the issue: "dumsa"
+
+Microsoft Activation Scripts (MAS) Repository
+Version: 3.4
+Repository: luuthang2106/Microsoft-Activation-Scripts
+
+For more information about this project, please visit:
+https://massgrave.dev/
